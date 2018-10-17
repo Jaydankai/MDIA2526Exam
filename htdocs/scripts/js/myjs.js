@@ -1,3 +1,6 @@
+$(document).ready(function(){ 
+$(“body”).html(“HI”);
+});
 <!DOCTYPE html>
 <html lang=en>
   <meta charset=utf-8>
